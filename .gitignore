@@ -1,0 +1,11 @@
+*.swp
+*.o
+tags
+cscope.out
+*.mod
+*.cmd
+*.ko
+*.symvers
+*.order
+output
+*.mod.c
